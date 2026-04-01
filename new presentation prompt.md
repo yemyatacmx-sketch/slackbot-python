@@ -17,3 +17,6 @@ Slide 7 Business Value: Six items: Speed, Quality, Scale, Onboarding, Ops, Strat
 Slide 8 Roadmap: Slack history(planned), Auto wiki indexing(planned), S3→vectorDB(post-launch).
 
 Slide 9 Thank You: Centered summary, three boxes: RAG Pipeline, Slack Bot, Self-serve.
+
+
+https://canva.link/ijl8t0yukcnuf21
